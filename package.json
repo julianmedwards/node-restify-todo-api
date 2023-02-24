@@ -1,0 +1,27 @@
+{
+  "name": "restify-todo-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianmedwards/node-restify-todo-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianmedwards/node-restify-todo-api/issues"
+  },
+  "homepage": "https://github.com/julianmedwards/node-restify-todo-api#readme",
+  "dependencies": {
+    "mongoose": "^6.10.0",
+    "mongoose-string-query": "^0.2.7",
+    "mongoose-timestamp": "^0.6.0",
+    "restify": "^11.0.0",
+    "restify-errors": "^8.0.2"
+  }
+}
